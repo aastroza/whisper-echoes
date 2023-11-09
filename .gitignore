@@ -138,6 +138,9 @@ venv.bak/
 # mkdocs documentation
 /site
 
+# audios
+/audios
+
 # mypy
 .mypy_cache/
 .dmypy.json
