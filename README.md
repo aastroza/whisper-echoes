@@ -32,5 +32,9 @@ python whisper_echoes.py en es
 
 Upon initiation, the application will prompt each user to speak after pressing 'Enter'. It will then translate and read out loud the translated speech in the other user's language.
 
+## Supported Languages
+
+Afrikaans, Arabic, Armenian, Azerbaijani, Belarusian, Bosnian, Bulgarian, Catalan, Chinese, Croatian, Czech, Danish, Dutch, English, Estonian, Finnish, French, Galician, German, Greek, Hebrew, Hindi, Hungarian, Icelandic, Indonesian, Italian, Japanese, Kannada, Kazakh, Korean, Latvian, Lithuanian, Macedonian, Malay, Marathi, Maori, Nepali, Norwegian, Persian, Polish, Portuguese, Romanian, Russian, Serbian, Slovak, Slovenian, Spanish, Swahili, Swedish, Tagalog, Tamil, Thai, Turkish, Ukrainian, Urdu, Vietnamese, and Welsh.
+
 ## License
 This project is distributed under the MIT License. For more details, see the LICENSE.md file.
