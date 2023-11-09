@@ -1,7 +1,7 @@
 # WhisperEchoes
 Experience the wonder of conversation without language barriers. This nimble audio translator lends you the power to seamlessly converse in a multitude of languages. It listens, interprets, and echoes back in the language of your choice—effortlessly, accurately, instantly.
 
-WhisperEchoes is a real-time translation application that harnesses the power of [OpenAI's SDK](https://platform.openai.com/docs/overview) for on-the-fly speech-to-text and text-to-speech conversions. Designed to facilitate direct communication between two individuals who do not share a common language, WhisperEchoes provides an immediate spoken language translation, enabling each party to speak and listen in their native tongue.
+WhisperEchoes is a real-time translation application that harnesses the power of [OpenAI's SDK](https://platform.openai.com/docs/overview) and [Instructor](https://github.com/jxnl/instructor) for on-the-fly speech-to-text and text-to-speech conversions. Designed to facilitate direct communication between two individuals who do not share a common language, WhisperEchoes provides an immediate spoken language translation, enabling each party to speak and listen in their native tongue.
 
 ## Features
 - Real-Time Translation: Engage in conversations with speakers of any language using immediate audio translation.
