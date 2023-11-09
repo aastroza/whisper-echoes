@@ -18,13 +18,13 @@ pip install -r requirements.txt
 ```
 
 ## Usage
-To start a real-time translation session for a conversation, run the following command with the source and target [ISO 639-1 language codes](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes):
+To start a real-time translation session for a conversation, run the following command adding two [ISO 639-1 language codes](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes):
 
 ```
-python app.py <source_language_code> <target_language_code>
+python app.py <language_code_1> <language_code_2>
 ```
 
-Example for translating a conversation from an english and spanish speakers:
+Example for translating a conversation between an english and a spanish speaker:
 
 ```
 python whisper_echoes.py en es
