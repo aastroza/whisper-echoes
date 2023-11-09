@@ -18,7 +18,7 @@ def transcribe_audio(audio_file):
 def text_to_speech(text, output_file="output.mp3"):
     response = client.audio.speech.create(
                                             model="tts-1",
-                                            voice="alloy",
+                                            voice="shimmer",
                                             input=text,
                                         )
     
