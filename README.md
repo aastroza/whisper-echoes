@@ -7,7 +7,7 @@ WhisperEchoes is a real-time translation application that harnesses the power of
 In this example a spanish speaker said: "Había una vez un perro volador".
 
 ## Features
-- Real-Time Translation: Engage in conversations with speakers of any language using immediate audio translation.
+- Fast Translation: Engage in conversations with speakers of any language using immediate audio translation.
 - OpenAI API Integration: Implements the latest OpenAI API for reliable speech recognition and synthesis.
 - User-Friendly GUI: Simple terminal interface powered by [Textual](https://github.com/textualize/textual/).
 - Continuous Interaction: Designed for ongoing dialogue, allowing for multiple exchanges in a single session.
