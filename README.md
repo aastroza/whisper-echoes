@@ -4,7 +4,7 @@ Experience the wonder of conversation without language barriers. This nimble aud
 WhisperEchoes is a real-time translation application that harnesses the power of [OpenAI's SDK](https://platform.openai.com/docs/overview) and [Instructor](https://github.com/jxnl/instructor) for on-the-fly speech-to-text and text-to-speech conversions. Designed to facilitate direct communication between two individuals who do not share a common language, WhisperEchoes provides an immediate spoken language translation, enabling each party to speak and listen in their native tongue.
 
 ![Use Case](whisper-echoes.gif)
-In this example a spanish speaker said "Había una vez un perro volador".
+In this example a spanish speaker said: "Había una vez un perro volador".
 
 ## Features
 - Real-Time Translation: Engage in conversations with speakers of any language using immediate audio translation.
