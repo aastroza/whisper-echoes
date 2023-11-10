@@ -6,7 +6,7 @@ WhisperEchoes is a real-time translation application that harnesses the power of
 ## Features
 - Real-Time Translation: Engage in conversations with speakers of any language using immediate audio translation.
 - OpenAI API Integration: Implements the latest OpenAI API for reliable speech recognition and synthesis.
-- User-Friendly CLI: Simple command-line interface for effortless operation.
+- User-Friendly CLI: Simple command-line interface powered by [Textual](https://github.com/textualize/textual/).
 - Continuous Interaction: Designed for ongoing dialogue, allowing for multiple exchanges in a single session.
 
 ## Installation
